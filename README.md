@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmet Suhan Oka👋
 
 <!--
-**ahmetsuhan/ahmetsuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ahmetsuhan/ahmetsuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...https://github.com/ahmetsuhan
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

@@ -20,7 +20,7 @@
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
    <br>
-   ![CSharp](https://img.shields.io/badge/C%23-.NET%20CORE-green)
+    <img src="https://img.shields.io/badge/C%23-.NET%20CORE-green">
    <br>
    <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ahmetsuhan">
    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ahmetsuhan">

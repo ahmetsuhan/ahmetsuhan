@@ -1,22 +1,29 @@
-# Hi there, I'm Ahmet Suhan Oka👋
+<h1>Hello, I'm Ahmet Suhan Oka 🙋‍♂️</h1>
+<h2>💻👨‍💻Full Stack Web Developer</h2>
+<hr>
 
-<!--
-**ahmetsuhan/ahmetsuhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<h3>How to reach me:</h3>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ahmet-suhan-oka/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:ahmetsuhanoka0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<hr>
 
+<h2>Tools & Technologies</h2>
+<p>
+   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+   <br>
+   <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <br>
+   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">
+   <br>
+   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+</p> 
 
-- 🔭 I’m currently working on Front-End Technologies such as HTML, CSS, Javascript 
-- 🌱 I’m currently React right now to capture the ecosystem
+<hr>
 
-- 🤔 I’m looking for help with Reac
-- 💬 Ask me about whatever you want to know 😄
-- 📫 How to reach me: [![GitHub Follow Badge](https://img.shields.io/github/followers/ahmetsuhan?label=follow&style=social)](https://github.com/ahmetsuhan) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nisanur-bulut/)](https://www.linkedin.com/in/ahmet-suhan-oka/) 
-[![Twitter Follow](https://twitter.com/OkaAhmet)] 
-
-
-
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
 

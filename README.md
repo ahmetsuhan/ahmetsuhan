@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Reac
 - 💬 Ask me about whatever you want to know 😄
 - 📫 How to reach me: <!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/ahmetsuhan" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @ahmetsuhan on GitHub">Follow @ahmetsuhan</a><!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
+<GitHubButton href="https://github.com/ahmetsuhan" data-color-scheme="no-preference: dark; light: light; dark: dark;" data-size="large" aria-label="Follow @ahmetsuhan on GitHub">Follow @ahmetsuhan</GitHubButton>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 

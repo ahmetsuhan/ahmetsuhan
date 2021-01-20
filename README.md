@@ -4,7 +4,7 @@
 
 <h3>Who am I?</h3>
 <p>Electrical and Electronics Enginner who wants to countinue career as a <strong>Front-End Developer</strong> to Full Stack Web Developer.</p>
-<p><b>hardworking</b>, social, <em>passionate about software</em></p>
+<p><b>hardworking</b>, social, <em><b>passionate about software</b></em></p>
 
 
 

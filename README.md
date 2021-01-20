@@ -1,5 +1,5 @@
 <h1>Hello, I'm Ahmet Suhan Oka 🙋‍♂️</h1>
-<h2>💻👨‍💻Full Stack Web Developer</h2>
+<h2>💻👨‍💻Front-End Developer</h2>
 <hr>
 
 <h3>How to reach me:</h3>
@@ -16,11 +16,8 @@
    <br>
    <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
    <br>
-   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb&link=https://github.com/imickovski">
-   <br>
-   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/imickovski">
-   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/imickovski">
+   <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/ahmetsuhan">
+   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/ahmetsuhan">
 </p> 
 
 <hr>

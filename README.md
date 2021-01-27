@@ -6,8 +6,10 @@
 <p>Electrical and Electronics Enginner who wants to continue career as a <strong>Front-End Developer</strong> to Full Stack Web Developer.</p>
 <p><b>Hardworking</b>, social, <em><b>passionate about software</b></em></p>
 <hr>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuhanh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsuhan" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetsuhan" alt="ahmetsuhan" /></a> </p>
+<hr>
 <h3>How to reach me:</h3>
 
 <a href="https://www.linkedin.com/in/ahmet-suhan-oka/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -33,3 +35,10 @@
 
 <h3>Currently Learning</h3>
  <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetsuhan&show_icons=true&locale=en&layout=compact" alt="ahmetsuhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmetsuhan&show_icons=true&locale=en" alt="ahmetsuhan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetsuhan&" alt="ahmetsuhan" /></p>

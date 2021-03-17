@@ -3,7 +3,7 @@
 <hr>
 
 <h3>Who am I?</h3>
-<p>Electrical and Electronics Enginner who wants to continue career as a <strong>Front-End Developer</strong> to Full Stack Web Developer.</p>
+<p>Electrical and Electronics Enginner who wants to continue career as a <strong>Front-End Developer</strong>.</p>
 <p><b>Hardworking</b>, social, <em><b>passionate about software</b></em></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuhanh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsuhan" /> </p>
@@ -12,7 +12,49 @@
 <hr>
 <h3>How to reach me:</h3>
 
-<a href="https://www.linkedin.com/in/ahmet-suhan-oka/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p align="left">
+  <a href="https://www.linkedin.com/in/ahmet-suhan-oka/" target="blank"
+    ><img
+      align="center"
+      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      alt="ahmetsuhan"
+      height="30"
+      width="30"
+  /></a>
+  <a href="https://ahmetsuhanoka.medium.com" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
+      alt="ahmetsuhan"
+      height="30"
+      width="40"
+  /></a>
+  <a href="https://twitter.com/OkaAhmet" target="blank"
+    ><img
+      align="center"
+      src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png"
+      alt="ahmetsuhan"
+      height="30"
+      width="30"
+  /></a>
+  <a href="https://www.instagram.com/ahmetsuhanoka/" target="blank"
+    ><img
+      align="center"
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+      alt="ahmetsuhan"
+      height="30"
+      width="30"
+  /></a>
+  <a href="https://www.hackerrank.com/ahmetsuhanoka0" target="blank"
+    ><img
+      align="center"
+      src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/160_Hackerrank-512.png"
+      alt="ahmetsuhan"
+      height="30"
+      width="30"
+  /></a>
+</p>
+</a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:ahmetsuhanoka0@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <hr>
 
@@ -123,6 +165,14 @@
     <img
       src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"
       alt="nextjs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://vuejs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
+      alt="vuejs"
       width="40"
       height="40"
     />

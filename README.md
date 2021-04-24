@@ -3,7 +3,7 @@
 <hr>
 
 <h3>Who am I?</h3>
-<p>Electrical and Electronics Enginner who wants to continue career as a <strong>Front-End Developer</strong> to <strong>Full Stack Developer</strong>.</p>
+<p><strong>Front-End Developer</strong></p>
 <p><b>Hardworking</b>, <b><em>social</em></b>, <em><b>passionate about software</b></em></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuhanh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsuhan" /> </p>

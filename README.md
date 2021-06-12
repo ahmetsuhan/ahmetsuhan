@@ -152,15 +152,6 @@
       height="40"
     />
   </a>
-</p> 
-
-<hr>
-
-<h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
-<hr>
-
-<h3>Currently Learning</h3>
- <p>
   
   <a href="https://vuejs.org/" target="_blank">
     <img
@@ -170,8 +161,13 @@
       height="40"
     />
   </a>
-   </p>
- 
+</p> 
+
+<hr>
+
+<h3>💻Active Learning, 🤝Teamwork, 👨‍💻Problem Solving</h3> 
+<hr>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmetsuhan&show_icons=true&locale=en&layout=compact" alt="ahmetsuhan" /></p>
 

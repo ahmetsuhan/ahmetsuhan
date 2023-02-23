@@ -16,7 +16,7 @@
   <a href="https://www.linkedin.com/in/ahmet-suhan-oka/" target="blank"
     ><img
       align="center"
-      src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="ahmetsuhan"
       height="30"
       width="30"
@@ -24,7 +24,7 @@
   <a href="https://ahmetsuhanoka.medium.com" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
       alt="ahmetsuhan"
       height="30"
       width="40"
@@ -32,7 +32,7 @@
   <a href="https://twitter.com/OkaAhmet" target="blank"
     ><img
       align="center"
-      src="https://icons.iconarchive.com/icons/limav/flat-gradient-social/128/Twitter-icon.png"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="ahmetsuhan"
       height="30"
       width="30"
@@ -40,7 +40,7 @@
   <a href="https://www.instagram.com/ahmetsuhanoka/" target="blank"
     ><img
       align="center"
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="ahmetsuhan"
       height="30"
       width="30"

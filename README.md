@@ -1,9 +1,9 @@
 <h1>Hello, I'm Ahmet Suhan Oka</h1>
-<h2>💻👨‍💻Front-End Developer</h2>
+<h2>💻👨‍💻Frontend Developer</h2>
 <hr>
 
 <h3>Who am I?</h3>
-<p><strong>Front-End Developer</strong></p>
+<p><strong>Frontend Developer</strong></p>
 <p><b>Hardworking</b>, <b><em>social</em></b>, <em><b>passionate about software</b></em></p>
 <hr>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmetsuhanh&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetsuhan" /> </p>

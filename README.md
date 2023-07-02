@@ -1,4 +1,4 @@
-<h1>Hello, I'm Ahmet Suhan Oka 🙋‍♂️</h1>
+<h1>Hello, I'm Ahmet Suhan Oka</h1>
 <h2>💻👨‍💻Front-End Developer</h2>
 <hr>
 
